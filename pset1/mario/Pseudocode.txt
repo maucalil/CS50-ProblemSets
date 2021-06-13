@@ -1,0 +1,5 @@
+// Make this in do while loop
+Get a user input for height
+If height is less than one or more than eight (or not an interger), go back to step 1
+int i = 1 and print one # then go to the next line and print i*= 2 hashes
+Make the pyramid from right //at this step add . and then hide them with space
